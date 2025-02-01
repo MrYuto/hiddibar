@@ -21,7 +21,7 @@ A simple Hiddify status bar module for Waybar.
 1. Compile using `cargo build --release`, or download the binary from the [releases](https://github.com/MrYuto/hiddibar/releases/latest) page.
 2. Copy Hiddify data directory path (i.e., `~/.local/share/app.hiddify.com/` on linux)
 
-## Waybar config
+### Waybar config
 
 ```json
   "custom/hiddibar": {
